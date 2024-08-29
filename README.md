@@ -3,4 +3,4 @@
 2) metaSpades used to form contigs: https://github.com/ablab/spades
 3) BLASTX was exicuted to explore functional profile of genes: https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html#id1
 
-NOTE: The full analysis pipeline can be accessed from our published star protocol from here: https://star-protocols.cell.com/protocols/3471
+NOTE: The full analysis pipeline can be accessed through our published star protocol: https://star-protocols.cell.com/protocols/3471
