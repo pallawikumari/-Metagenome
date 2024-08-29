@@ -4,3 +4,4 @@ extract_kraken_reads.py -k k2_out.output  -r k2_report.report  -s1 read_R1.fastq
 metaspades.py -1 out_R1.fa -2 out_R2.fa  -m 30 -o metaspades/out_dir  --only-assembler
 3) BLASTX run:
 blastx -query contigs.fasta -db db_dir -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore sstrand qcovs qcovhsp" -evalue 1e-50 > blastx.txt
+NOTE: The full analysis pipeline can be accessed from our published star protocol from here: https://star-protocols.cell.com/protocols/3471
